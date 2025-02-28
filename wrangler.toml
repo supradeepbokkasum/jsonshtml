@@ -1,4 +1,4 @@
-name = "jsons-html"
+name = "json-html"
 type = "javascript"
 
 main = "functions/index.js"
