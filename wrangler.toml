@@ -1,0 +1,15 @@
+name = "json-tool"
+type = "javascript"
+
+main = "functions/index.js"
+
+[site]
+bucket = "./dist"
+
+[[kv_namespaces]]
+binding = "jsonToolKV"
+id = "c01e099ade23487898085ce3bee3769e"
+preview_id = "preview-id"
+
+compatibility_flags = ["nodejs_compat"]
+
