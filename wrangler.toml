@@ -1,7 +1,9 @@
-name = "json-tool"
+name = "jsons-html"
 type = "javascript"
 
 main = "functions/index.js"
+
+compatibility_date = "2025-02-28"
 
 [site]
 bucket = "./dist"
